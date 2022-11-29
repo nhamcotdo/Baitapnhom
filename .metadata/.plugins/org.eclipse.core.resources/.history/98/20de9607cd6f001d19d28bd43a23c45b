@@ -1,0 +1,10 @@
+package model.bean;
+
+public class User {
+	private String UserName;
+	private String Password;
+	
+	public String getName(String userName) {
+		this.UserName = userName;
+	}
+}

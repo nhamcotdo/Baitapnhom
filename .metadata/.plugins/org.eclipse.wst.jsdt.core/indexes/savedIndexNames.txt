@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+D:\Hoccode\KI1NAM3\Baitapnhom\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+684079378.index
+14399427.index
+3749092259.index
+2370644186.index
+1615778057.index
+1624329565.index
+1032544037.index
